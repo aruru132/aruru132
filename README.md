@@ -48,9 +48,9 @@
 いつも覗いてくれてありがとう！この辺りの数字はあまり気にせず、楽しんで開発してます😊
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aruru132&show_icons=true&theme=nord&hide_border=true&locale=ja" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aruru132&show_icons=true&theme=nord&hide_border=true&locale=ja" alt="GitHub Stats" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**あなたのGitHubユーザー名**&layout=compact&theme=nord&hide_border=true&locale=ja" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruru132&layout=compact&theme=nord&hide_border=true&locale=ja" alt="Top Languages" />
 </p>
 
 ---
