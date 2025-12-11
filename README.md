@@ -21,6 +21,7 @@
 * 🏠 **趣味・開発以外の好きなこと :** 自作サーバの構築と管理
 * 💬 **連絡先:** [Aruru141](https://x.com/Aruru141)
 * 🏠️ **ホームページ:** [いろいろみれます～](https://aruru.vercel.app/)
+* ✍️ **ブログ:** [のんびり更新してます～](https://aruviastudio.com/)
 
 <br>
 
