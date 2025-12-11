@@ -2,7 +2,7 @@
  
  👋 hello everyone I’m ao132AO
  
- 📫 連絡はこちらのリンク [ALLv2a](https://twitter.com/ALLv2a)のDMへお願いします
+ 📫 連絡はこちらのリンク [ALLv2a](https://x.com/Aruru141)のDMへお願いします
 
 
 
